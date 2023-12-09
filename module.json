@@ -1,0 +1,19 @@
+{
+    "author": "<font color='#00FFFF'>Salchy</font>",
+    "description": "translator",
+    "disableAutoUpdate": true,
+    "disabled": false,
+    "donationUrl": "",
+    "name": "translator",
+    "options": {
+        "niceName": "<font color='#FDD017'>translator</font>",
+        "guiName": "<font color='#FDD017'>translator</font>",
+        "reloadable": true,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 1		
+	},
+    "servers": [""],
+    "supportUrl": "",
+    "version": "<font color='#00FFFF'>1.0.0</font>"
+}

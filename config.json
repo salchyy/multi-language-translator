@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "data": {
+        "enabled": true,
+        "ru": true,
+        "de": true,
+        "es": true,
+        "fr": true,
+        "tr": true,
+        "it": true,
+        "ar": true,
+        "zh": true,
+        "ja": true,
+        "ko": true
+    }
+}
